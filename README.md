@@ -58,7 +58,7 @@ You can ask questions that may arise during the use of the SDK in our [Telegram 
 
 ## Donation
 
-`continuation.ton`
+`matthewparker.ton`
 
 ## License
 
